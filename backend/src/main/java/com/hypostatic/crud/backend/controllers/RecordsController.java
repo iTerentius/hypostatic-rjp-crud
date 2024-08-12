@@ -20,3 +20,4 @@ public class RecordsController {
         return ResponseEntity.ok(recordsService.allRecords());
     }
 }
+
